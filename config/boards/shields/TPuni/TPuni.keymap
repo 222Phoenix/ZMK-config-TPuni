@@ -42,9 +42,10 @@
         &kp Z           &kp C            &kp B            &kp M            &kp DOT          &kp ENTER
 		
                         &kp C_VOL_DN     &kp BSPC        &kp SPACE         &kp C_VOL_UP         
-        >;
+               >;
     };
 
     };
+    
 };
 
