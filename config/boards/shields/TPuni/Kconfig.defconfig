@@ -3,6 +3,4 @@ if SHIELD_TPUNI
 config ZMK_KEYBOARD_NAME
     default "TPuni"
 
-
-
 endif
