@@ -26,6 +26,7 @@
     // |      | vold |  bsp |   |  spc | volu |      |                    
     // +------+------+------+   +------+------+------+
 
+ default_layer {
     bindings = <   
         &kp TAB         &kp W            &kp R            &kp Y            &kp I            &kp P            
         &kp LSHIFT      &kp S            &kp F            &kp H            &kp K            &kp APOS  
@@ -37,7 +38,8 @@
 		
                         &kp C_VOL_DN     &kp BSPC        &kp SPACE         &kp C_VOL_UP         
         >;
-
     };
 
+    };
+};
 
